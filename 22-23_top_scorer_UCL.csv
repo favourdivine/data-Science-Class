@@ -1,0 +1,26 @@
+﻿name,team,goals,assists,played,goals_per90,mins_pergoal,total_shots,goal_conversion,shot_accuracy
+Erling Haaland,Manchester City,12,1,11,1.28,70,35,0.34,0.74
+Mohamed Salah,Liverpool,8,2,8,1.15,78,18,0.44,0.72
+Vinícius Júnior,Real Madrid,7,5,12,0.65,139,31,0.23,0.68
+Kylian Mbappé,Paris Saint Germain,7,3,8,0.97,93,23,0.3,0.65
+João Mário,Benfica,6,2,10,0.62,144,10,0.6,0.7
+Mehdi Taremi,FC Porto,5,2,7,0.73,123,18,0.28,0.67
+Rodrygo,Real Madrid,5,2,12,0.55,165,20,0.25,0.6
+Olivier Giroud,AC Milan,5,2,12,0.48,188,23,0.22,0.7
+Rafa,Benfica,5,1,10,0.54,165,23,0.22,0.52
+Victor Osimhen,Napoli,5,0,6,1.06,85,14,0.36,0.57
+Robert Lewandowski,Barcelona,5,0,5,1.02,88,17,0.29,0.65
+Lionel Messi,Paris Saint Germain,4,4,7,0.59,154,14,0.29,0.64
+Giacomo Raspadori,Napoli,4,3,7,1.44,63,9,0.44,0.56
+Mohammed Kudus,Ajax,4,2,6,0.8,113,6,0.67,0.67
+Piotr Zielinski,Napoli,4,2,10,0.58,156,13,0.31,0.85
+Leroy Sané,Bayern Munich,4,1,8,0.65,139,16,0.25,0.56
+Jude Bellingham,Borussia Dortmund,4,1,7,0.57,158,7,0.57,0.57
+Karim Benzema,Real Madrid,4,1,10,0.48,187,26,0.15,0.73
+Edin Dzeko,Inter Milan,4,1,13,0.43,208,19,0.21,0.58
+Giovanni Simeone,Napoli,4,0,7,1.38,65,13,0.31,0.69
+Darwin Núñez,Liverpool,4,0,8,0.9,100,18,0.22,0.78
+Eric Choupo-Moting,Bayern Munich,4,0,7,0.82,110,12,0.33,0.67
+Lautaro Martínez,Inter Milan,3,3,13,0.27,334,21,0.14,0.38
+Julián Álvarez,Manchester City,3,2,10,0.58,156,11,0.27,0.64
+Riyad Mahrez,Manchester City,3,2,9,0.53,169,8,0.38,0.88

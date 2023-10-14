@@ -1,0 +1,22 @@
+create database ovilestaff;
+show databases;
+use ovilestaff;
+drop database ovilestaff;
+create database ovilestaff;
+use ovilestaff;
+
+create table staffdetails(staffid int not null primary key, staffname text not null, staffgender varchar(45) not null, staffaddress text not null);
+alter table staffdetails add column staffemail text not null;
+show columns from staffdetails;
+alter table staffdetails add column staffcontact text not null after staffaddress;
+show columns from staffdetails;
+alter table staffdetails add column id int null first;
+show columns from staffdetails;
+alter table staffdetails modify staffgender varchar(20) not null;
+show columns from staffdetails;
+alter table staffdetails change column staffemail staffemailaddress text not null;
+show columns from staffdetails;
+alter table staffdetails drop column id;
+show columns from staffdetails;
+alter table staffdetails rename to staffrecords;
+show columns from staffrecords;
